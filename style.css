@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+
+body {
+  background-color: #9c835f;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+}
+
+a,
+a:hover {
+  color: #f9b23d;
+}
+
+.item {
+  margin: 2.5rem 2.5rem;
+}
+
+.player:hover {
+  transform: scale(1.1);
+}
+
+.vs {
+  font-size: 100px;
+  color: #bd0000;
+}
